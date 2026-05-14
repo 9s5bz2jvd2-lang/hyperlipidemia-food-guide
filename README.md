@@ -59,6 +59,7 @@ hyperlipidemia-food-guide/
 ├── kpk_principles.md    # 原则KPK（KPK-01～08）
 ├── kpk_appendix.md      # 附录KPK（KPK-09～13）
 ├── kpk_disease.md       # 疾病背景KPK（KPK-14～16）
+├── kpk_qa.md            # 问答版KPK（KPK-17，10个官方问答精要）
 ├── recipes_data.md      # 6证型×3示例=18套食谱完整数据
 ├── recipes_overview.md  # 食谱概览与地区季节能量分布
 ├── dietary_formulas.md  # 39个食养方（茶饮+膳方）完整内容
@@ -87,6 +88,7 @@ hyperlipidemia-food-guide/
 | KPK-14 | 高脂血症的定义、分类与流行病学 | 疾病背景 |
 | KPK-15 | 高脂血症的危害与危险因素 | 疾病背景 |
 | KPK-16 | 高脂血症的诊断标准与筛查 | 疾病背景 |
+| KPK-17 | 指南问答版（10个官方问答精要） | 问答版（新增） |
 
 ## 声明
 
