@@ -122,3 +122,5 @@ hyperlipidemia-food-guide/
 ## License
 
 MIT
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
